@@ -1,2 +1,2 @@
-# zhmeishi.github.io
-[SHI Zhenmei's Homepage](https://zhmeishi.github.io)
+# teapotliid.github.io
+[Haoran Li's Homepage](https://teapotliid.github.io/)
